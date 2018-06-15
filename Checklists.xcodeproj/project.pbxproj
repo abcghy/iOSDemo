@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		211C07F420D3BD7600A8D55D /* AllListsTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 211C07F320D3BD7600A8D55D /* AllListsTableViewController.swift */; };
 		2196177720D0CF45005400F6 /* AddItemViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2196177620D0CF45005400F6 /* AddItemViewController.swift */; };
 		21C76CCD20CF7243008199C5 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21C76CCC20CF7243008199C5 /* AppDelegate.swift */; };
 		21C76CCF20CF7243008199C5 /* ChecklistViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21C76CCE20CF7243008199C5 /* ChecklistViewController.swift */; };
@@ -17,6 +18,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		211C07F320D3BD7600A8D55D /* AllListsTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AllListsTableViewController.swift; sourceTree = "<group>"; };
 		2196177620D0CF45005400F6 /* AddItemViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddItemViewController.swift; sourceTree = "<group>"; };
 		21C76CC920CF7243008199C5 /* Checklists.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Checklists.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		21C76CCC20CF7243008199C5 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -66,6 +68,7 @@
 				21C76CD820CF7243008199C5 /* Info.plist */,
 				21C76CDE20CFA13A008199C5 /* ChecklistItem.swift */,
 				2196177620D0CF45005400F6 /* AddItemViewController.swift */,
+				211C07F320D3BD7600A8D55D /* AllListsTableViewController.swift */,
 			);
 			path = Checklists;
 			sourceTree = "<group>";
@@ -145,6 +148,7 @@
 				21C76CCF20CF7243008199C5 /* ChecklistViewController.swift in Sources */,
 				2196177720D0CF45005400F6 /* AddItemViewController.swift in Sources */,
 				21C76CDF20CFA13A008199C5 /* ChecklistItem.swift in Sources */,
+				211C07F420D3BD7600A8D55D /* AllListsTableViewController.swift in Sources */,
 				21C76CCD20CF7243008199C5 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
